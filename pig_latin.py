@@ -1,3 +1,7 @@
+# Harker Russell
+#J Fausto
+# Steve Sharp
+
 def is_vowel(word):
     word_lenght = len(word)
     position = 0
